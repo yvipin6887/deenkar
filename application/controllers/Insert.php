@@ -38,6 +38,8 @@ class Insert extends CI_Controller {
 			return 'ExistStudentList';
 		}
 	}
-
+	public function newfunction(){
+		echo 'testing git';
+	}
 	
 }
